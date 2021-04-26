@@ -1,0 +1,63 @@
+{
+    "Dark Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 276066,
+                "file_path": "results\\DarkKnightDebuff1\\Dark Knight Behavior\\Dark Knight Behavior-276066.onnx",
+                "reward": 4.5,
+                "creation_time": 1619396651.9131155
+            },
+            {
+                "steps": 1999827,
+                "file_path": "results\\DarkKnightDebuff1\\Dark Knight Behavior\\Dark Knight Behavior-1999827.onnx",
+                "reward": -8.5,
+                "creation_time": 1619398904.3339984
+            },
+            {
+                "steps": 2269192,
+                "file_path": "results\\DarkKnightDebuff1\\Dark Knight Behavior\\Dark Knight Behavior-2269192.onnx",
+                "reward": 6.9,
+                "creation_time": 1619401715.872352
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2269192,
+            "file_path": "results\\DarkKnightDebuff1\\Dark Knight Behavior.onnx",
+            "reward": 6.9,
+            "creation_time": 1619401715.872352
+        }
+    },
+    "Hero Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 276066,
+                "file_path": "results\\DarkKnightDebuff1\\Hero Knight Behavior\\Hero Knight Behavior-276066.onnx",
+                "reward": -4.5,
+                "creation_time": 1619396652.0387795
+            },
+            {
+                "steps": 1999827,
+                "file_path": "results\\DarkKnightDebuff1\\Hero Knight Behavior\\Hero Knight Behavior-1999827.onnx",
+                "reward": 5.166666666666667,
+                "creation_time": 1619398904.0761483
+            },
+            {
+                "steps": 2269192,
+                "file_path": "results\\DarkKnightDebuff1\\Hero Knight Behavior\\Hero Knight Behavior-2269192.onnx",
+                "reward": -8.233333333333333,
+                "creation_time": 1619401715.7379758
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2269192,
+            "file_path": "results\\DarkKnightDebuff1\\Hero Knight Behavior.onnx",
+            "reward": -8.233333333333333,
+            "creation_time": 1619401715.7379758
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.8.1+cpu"
+    }
+}

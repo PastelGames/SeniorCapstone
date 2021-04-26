@@ -1,0 +1,63 @@
+{
+    "Hero Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499964,
+                "file_path": "results\\Run4\\Hero Knight Behavior\\Hero Knight Behavior-499964.onnx",
+                "reward": 10.06060606060606,
+                "creation_time": 1619211322.975757
+            },
+            {
+                "steps": 500028,
+                "file_path": "results\\Run4\\Hero Knight Behavior\\Hero Knight Behavior-500028.onnx",
+                "reward": 10.06060606060606,
+                "creation_time": 1619211323.4440126
+            },
+            {
+                "steps": 500028,
+                "file_path": "results\\Run4\\Hero Knight Behavior\\Hero Knight Behavior-500028.onnx",
+                "reward": null,
+                "creation_time": 1619214784.0499983
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500028,
+            "file_path": "results\\Run4\\Hero Knight Behavior.onnx",
+            "reward": null,
+            "creation_time": 1619214784.0499983
+        }
+    },
+    "Dark Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499964,
+                "file_path": "results\\Run4\\Dark Knight Behavior\\Dark Knight Behavior-499964.onnx",
+                "reward": -10.06060606060606,
+                "creation_time": 1619211323.1268606
+            },
+            {
+                "steps": 500028,
+                "file_path": "results\\Run4\\Dark Knight Behavior\\Dark Knight Behavior-500028.onnx",
+                "reward": -10.06060606060606,
+                "creation_time": 1619211323.2914205
+            },
+            {
+                "steps": 500028,
+                "file_path": "results\\Run4\\Dark Knight Behavior\\Dark Knight Behavior-500028.onnx",
+                "reward": null,
+                "creation_time": 1619214783.9442792
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500028,
+            "file_path": "results\\Run4\\Dark Knight Behavior.onnx",
+            "reward": null,
+            "creation_time": 1619214783.9442792
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.8.1+cpu"
+    }
+}

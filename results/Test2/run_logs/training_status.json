@@ -1,0 +1,87 @@
+{
+    "Dark Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 142273,
+                "file_path": "results\\Test2\\Dark Knight Behavior\\Dark Knight Behavior-142273.onnx",
+                "reward": 10.5,
+                "creation_time": 1619159952.9478958
+            },
+            {
+                "steps": 272611,
+                "file_path": "results\\Test2\\Dark Knight Behavior\\Dark Knight Behavior-272611.onnx",
+                "reward": 13.433333333333334,
+                "creation_time": 1619163099.0924895
+            },
+            {
+                "steps": 499937,
+                "file_path": "results\\Test2\\Dark Knight Behavior\\Dark Knight Behavior-499937.onnx",
+                "reward": 17.714285714285715,
+                "creation_time": 1619185858.5175605
+            },
+            {
+                "steps": 500001,
+                "file_path": "results\\Test2\\Dark Knight Behavior\\Dark Knight Behavior-500001.onnx",
+                "reward": 17.714285714285715,
+                "creation_time": 1619185858.630762
+            },
+            {
+                "steps": 500001,
+                "file_path": "results\\Test2\\Dark Knight Behavior\\Dark Knight Behavior-500001.onnx",
+                "reward": null,
+                "creation_time": 1619185904.0279284
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500001,
+            "file_path": "results\\Test2\\Dark Knight Behavior.onnx",
+            "reward": null,
+            "creation_time": 1619185904.0279284
+        }
+    },
+    "Hero Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 142273,
+                "file_path": "results\\Test2\\Hero Knight Behavior\\Hero Knight Behavior-142273.onnx",
+                "reward": -10.5,
+                "creation_time": 1619159952.8506472
+            },
+            {
+                "steps": 272611,
+                "file_path": "results\\Test2\\Hero Knight Behavior\\Hero Knight Behavior-272611.onnx",
+                "reward": -13.433333333333334,
+                "creation_time": 1619163098.9917586
+            },
+            {
+                "steps": 499937,
+                "file_path": "results\\Test2\\Hero Knight Behavior\\Hero Knight Behavior-499937.onnx",
+                "reward": -17.714285714285715,
+                "creation_time": 1619185858.4168296
+            },
+            {
+                "steps": 500001,
+                "file_path": "results\\Test2\\Hero Knight Behavior\\Hero Knight Behavior-500001.onnx",
+                "reward": -17.714285714285715,
+                "creation_time": 1619185858.7274609
+            },
+            {
+                "steps": 500001,
+                "file_path": "results\\Test2\\Hero Knight Behavior\\Hero Knight Behavior-500001.onnx",
+                "reward": null,
+                "creation_time": 1619185904.1256673
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500001,
+            "file_path": "results\\Test2\\Hero Knight Behavior.onnx",
+            "reward": null,
+            "creation_time": 1619185904.1256673
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.8.1+cpu"
+    }
+}

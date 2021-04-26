@@ -1,0 +1,51 @@
+{
+    "Dark Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 325942,
+                "file_path": "results\\DarkKnightDebuff\\Dark Knight Behavior\\Dark Knight Behavior-325942.onnx",
+                "reward": 1.7,
+                "creation_time": 1619391711.7004757
+            },
+            {
+                "steps": 1797822,
+                "file_path": "results\\DarkKnightDebuff\\Dark Knight Behavior\\Dark Knight Behavior-1797822.onnx",
+                "reward": 13.0,
+                "creation_time": 1619393189.1323295
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1797822,
+            "file_path": "results\\DarkKnightDebuff\\Dark Knight Behavior.onnx",
+            "reward": 13.0,
+            "creation_time": 1619393189.1323295
+        }
+    },
+    "Hero Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 325942,
+                "file_path": "results\\DarkKnightDebuff\\Hero Knight Behavior\\Hero Knight Behavior-325942.onnx",
+                "reward": -1.7,
+                "creation_time": 1619391711.8301282
+            },
+            {
+                "steps": 1797822,
+                "file_path": "results\\DarkKnightDebuff\\Hero Knight Behavior\\Hero Knight Behavior-1797822.onnx",
+                "reward": -13.0,
+                "creation_time": 1619393188.9996727
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1797822,
+            "file_path": "results\\DarkKnightDebuff\\Hero Knight Behavior.onnx",
+            "reward": -13.0,
+            "creation_time": 1619393188.9996727
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.8.1+cpu"
+    }
+}

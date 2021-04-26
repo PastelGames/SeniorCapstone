@@ -1,0 +1,87 @@
+{
+    "Hero Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499410,
+                "file_path": "results\\Imitation1\\Hero Knight Behavior\\Hero Knight Behavior-499410.onnx",
+                "reward": -6.833333333333333,
+                "creation_time": 1619372520.7501185
+            },
+            {
+                "steps": 966558,
+                "file_path": "results\\Imitation1\\Hero Knight Behavior\\Hero Knight Behavior-966558.onnx",
+                "reward": -5.166666666666667,
+                "creation_time": 1619376897.4613612
+            },
+            {
+                "steps": 999660,
+                "file_path": "results\\Imitation1\\Hero Knight Behavior\\Hero Knight Behavior-999660.onnx",
+                "reward": -4.1,
+                "creation_time": 1619377685.5735734
+            },
+            {
+                "steps": 1499836,
+                "file_path": "results\\Imitation1\\Hero Knight Behavior\\Hero Knight Behavior-1499836.onnx",
+                "reward": -4.964285714285714,
+                "creation_time": 1619382622.4193816
+            },
+            {
+                "steps": 1745948,
+                "file_path": "results\\Imitation1\\Hero Knight Behavior\\Hero Knight Behavior-1745948.onnx",
+                "reward": -5.066666666666666,
+                "creation_time": 1619385052.9702861
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1745948,
+            "file_path": "results\\Imitation1\\Hero Knight Behavior.onnx",
+            "reward": -5.066666666666666,
+            "creation_time": 1619385052.9702861
+        }
+    },
+    "Dark Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499410,
+                "file_path": "results\\Imitation1\\Dark Knight Behavior\\Dark Knight Behavior-499410.onnx",
+                "reward": 6.833333333333333,
+                "creation_time": 1619372520.885755
+            },
+            {
+                "steps": 966558,
+                "file_path": "results\\Imitation1\\Dark Knight Behavior\\Dark Knight Behavior-966558.onnx",
+                "reward": 4.055555555555555,
+                "creation_time": 1619376897.5675826
+            },
+            {
+                "steps": 999660,
+                "file_path": "results\\Imitation1\\Dark Knight Behavior\\Dark Knight Behavior-999660.onnx",
+                "reward": 2.1,
+                "creation_time": 1619377685.7092106
+            },
+            {
+                "steps": 1499836,
+                "file_path": "results\\Imitation1\\Dark Knight Behavior\\Dark Knight Behavior-1499836.onnx",
+                "reward": 4.25,
+                "creation_time": 1619382622.150586
+            },
+            {
+                "steps": 1745948,
+                "file_path": "results\\Imitation1\\Dark Knight Behavior\\Dark Knight Behavior-1745948.onnx",
+                "reward": 4.4,
+                "creation_time": 1619385052.8513396
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1745948,
+            "file_path": "results\\Imitation1\\Dark Knight Behavior.onnx",
+            "reward": 4.4,
+            "creation_time": 1619385052.8513396
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.8.1+cpu"
+    }
+}

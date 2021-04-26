@@ -1,0 +1,39 @@
+{
+    "Dark Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 134241,
+                "file_path": "results\\ppo\\Dark Knight Behavior\\Dark Knight Behavior-134241.onnx",
+                "reward": 0.0,
+                "creation_time": 1619153663.480637
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 134241,
+            "file_path": "results\\ppo\\Dark Knight Behavior.onnx",
+            "reward": 0.0,
+            "creation_time": 1619153663.480637
+        }
+    },
+    "Hero Knight Behavior": {
+        "checkpoints": [
+            {
+                "steps": 134241,
+                "file_path": "results\\ppo\\Hero Knight Behavior\\Hero Knight Behavior-134241.onnx",
+                "reward": 0.0,
+                "creation_time": 1619153663.6274414
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 134241,
+            "file_path": "results\\ppo\\Hero Knight Behavior.onnx",
+            "reward": 0.0,
+            "creation_time": 1619153663.6274414
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.8.1+cpu"
+    }
+}
